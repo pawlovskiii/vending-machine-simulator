@@ -22,7 +22,7 @@ Built as a learning project to practice core Java concepts.
 ## Project Structure
 
 ```
-src/vendingmachine/
+vendingmachine/
 ├── Main.java                        — simulation entry point with sample data
 ├── VendingMachine.java              — core machine logic: storage, coins, transactions
 ├── TransactionStats.java            — tracks purchases, failures, and rankings
