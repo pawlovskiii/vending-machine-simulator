@@ -8,7 +8,7 @@
 - [Example Output](#example-output)
 
 ## General info
-A Java console application simulating a drink vending machine. The system handles coin-based payments, tracks product stock levels, and collects transaction statistics across a configurable number of simulated customers.
+Application simulating a drink vending machine. The system handles coin-based payments, tracks product stock levels, and collects transaction statistics across a configurable number of simulated customers.
 
 Built as a learning project to practice core Java concepts.
 
